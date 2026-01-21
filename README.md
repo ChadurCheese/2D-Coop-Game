@@ -70,9 +70,3 @@ python main.py
 * Implement power-ups and varied weapons
 * Add menu and restart functionality
 * Improve collision accuracy and animations
-
-```
-- Lightly refactor the code and document it
-
-Just say the word.
-```
